@@ -31,29 +31,121 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "TTBLE🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project is a web-based Examination Management System that automates scheduling, hall allocation, staff assignment, and user management. It reduces conflicts, supports repeat/pro-rata cases, and improves efficiency using role-based access and a modern tech stack for reliable exam administration",
+    url: "https://github.com/rashmikanirml/ttble.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "MINISTRY",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A online web application to automate all the tasks",
+    url: "https://github.com/rashmikanirml/Ministry.git",
   },
   {
-    title: "My Resume Site",
+    title: "Gem-Management",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A SaaS-based gem marketplace platform where users can buy, sell, and manage gemstones, while administrators oversee operations, listings, and transactions",
+    url: "https://github.com/rashmikanirml/Gem-Management.git",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "AURA",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Aura is a modern vehicle marketplace web app for buying and selling cars  Users can browse listings, search and filter vehicles, and post their own cars. Built with Next.js, PostgreSQL, and Prisma for speed, scalability, and a smooth user experience.",
+    url: "https://github.com/rashmikanirml/AURA.git",
   },
+  {
+    title: "MOLA",
+    description:
+      "MOLA (Smart Campus Operations Hub) is a full-stack web application built with Spring Boot and React to manage university facility bookings, maintenance tickets, and operational workflows with role-based access and OAuth 2.0 authentication.",
+    url: "https://github.com/rashmikanirml/MOLA.git",
+  },
+
+   {
+    title: "snakes-and-ladders",
+    description:
+      "Snakes and Ladders (Offline) is a Flutter-based mobile game that recreates the classic board game experience with simple controls and smooth gameplay. It supports local multiplayer and runs entirely without an internet connection.",
+    url: "https://github.com/rashmikanirml/snakes-and-ladders.git",
+  },
+
+  {
+    title: "Daily-habit-tracker",
+    description:
+      "A Flutter-based mobile Habit Tracker app that helps users build daily habits by adding tasks, marking them complete, and tracking daily progress. Data is stored locally using SharedPreferences",
+    url: "https://github.com/rashmikanirml/Daily-habit-tracker.git",
+  },
+
+   {
+    title: "HabitPro",
+    description:
+      "HabitPro is a premium-style habit tracker and daily routine planner built with React Native (Expo). Create habits with flexible schedules, track daily completions, build streaks, and view progress insights—all with a smooth, mobile-first experience.",
+    url: "https://github.com/rashmikanirml/HabitPro.git",
+  },
+
+  
+   {
+    title: "Scroll",
+    description:
+      "React native mobile app",
+    url: "https://github.com/rashmikanirml/Scroll.git",
+  },
+
+   {
+    title: "BalanceX",
+    description:
+      "habit app",
+    url: "https://github.com/rashmikanirml/BalanceX.git",
+  },
+  
+  {
+    title: "Allenato",
+    description:
+      "Fitness app with workoutroutines and daily habits tracker and BMI calculator",
+    url: "https://github.com/rashmikanirml/Allenato.git",
+  },
+
+  
+  {
+    title: "Govi-go",
+    description:
+      "new ui/ux design done by using figma",
+    url: "https://github.com/rashmikanirml/Govi-go.git",
+  },
+
+  {
+    title: "AgriGo",
+    description:
+      "An application architecture developed from kotlin for sell agri products for a reliable price",
+    url: "https://github.com/rashmikanirml/AgriGo.git",
+  },
+
+  {
+    title: "FoodApp",
+    description:
+      "An application architecture developed from kotlin for sell food products for a reliable price",
+    url: "https://github.com/rashmikanirml/AgriGo.git",
+  },
+
+  {
+    title: "Examhub",
+    description:
+      "Sliit 1st yr 2nd sem group project",
+    url: "https://github.com/rashmikanirml/Examhub.git",
+  },
+
+
+
+
+  {
+    title: "FitMate",
+    description:
+      "FitMate is your all-in-one wellness app that counts steps, calculates BMI, tracks calories burned, reminds you to stay hydrated, and includes a mood journal plus a habit tracker—helping you stay active, mindful, and motivated every day toward a healthier lifestyle.",
+    url: "https://github.com/rashmikanirml/FitMate.git",
+  },
+
+
+
+
 ];
 
 const Portfolio = () => {
